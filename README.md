@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Google Cloud Security
 - 💞️ I’m looking to collaborate on employers and developers alike
 - 📫 How to reach me, you can send me an email to gepindrequierme@streettostreetinc.org
-- 😄 Pronouns: Clouds Networking Enthusiast
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: The real challenge comes not from the outside , but from the self.
 
 <!---
